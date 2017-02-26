@@ -1,0 +1,2 @@
+c:\users\hackerpro\documents\visual studio 2012\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\bin\Debug\Chat.exe.config
