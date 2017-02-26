@@ -1,0 +1,5 @@
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Teszt\bin\Debug\Teszt.exe.config
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Teszt\bin\Debug\Teszt.exe
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Teszt\bin\Debug\Teszt.pdb
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Teszt\obj\Debug\Teszt.exe
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Teszt\obj\Debug\Teszt.pdb

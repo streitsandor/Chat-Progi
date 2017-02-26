@@ -1,0 +1,9 @@
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\bin\Debug\Szerver.exe.config
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\bin\Debug\Szerver.exe
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\bin\Debug\Szerver.pdb
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\obj\Debug\Szerver.Form1.resources
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\obj\Debug\Szerver.Properties.Resources.resources
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\obj\Debug\Szerver.csproj.GenerateResource.Cache
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\obj\Debug\Szerver.exe
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\obj\Debug\Szerver.pdb
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Szerver\obj\Debug\Szerver.csprojResolveAssemblyReference.cache

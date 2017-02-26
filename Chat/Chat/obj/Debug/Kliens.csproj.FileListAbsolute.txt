@@ -1,0 +1,8 @@
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\obj\Debug\Kliens.csprojResolveAssemblyReference.cache
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\obj\Debug\Kliens.csproj.GenerateResource.Cache
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\bin\Debug\Kliens.exe.config
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\bin\Debug\Kliens.exe
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\bin\Debug\Kliens.pdb
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\obj\Debug\Kliens.Properties.Resources.resources
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\obj\Debug\Kliens.exe
+C:\Users\HackerPro\Desktop\Progi\Chat-Progi\Chat\Chat\obj\Debug\Kliens.pdb

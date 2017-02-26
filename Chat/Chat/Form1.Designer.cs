@@ -1,4 +1,4 @@
-﻿namespace Chat
+﻿namespace Kliens
 {
     partial class Form1
     {
